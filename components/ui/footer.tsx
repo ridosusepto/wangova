@@ -64,14 +64,7 @@ export default function Footer() {
                   Our method
                 </a>
               </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  User policy
-                </a>
-              </li>
+             
             </ul>
           </div>
           {/* 2nd block */}
@@ -156,22 +149,7 @@ export default function Footer() {
               Content Library
             </h3>
             <ul className="space-y-2 text-sm">
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Templates
-                </a>
-              </li>
-              <li>
-                <a
-                  className="text-indigo-200/65 transition hover:text-indigo-500"
-                  href="#0"
-                >
-                  Tutorials
-                </a>
-              </li>
+             
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
@@ -205,13 +183,13 @@ export default function Footer() {
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-                © Cruip.com
+                Wangova
                 <span className="text-gray-700"> · </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Terms
+                  Labs
                 </a>
               </p>
               <ul className="inline-flex gap-1">
