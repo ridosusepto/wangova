@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "Home - Wangova Labs",
+  description: "fund cypto",
 };
 
 import PageIllustration from "@/components/page-illustration";
